@@ -1,4 +1,4 @@
-<img src="./cyberpunk-bg.gif" style="width: 80%" />
+<img src="./cyberpunk-bg.gif" style="width: 100%" />
 
 ## Heya! 👋
 
